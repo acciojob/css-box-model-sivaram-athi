@@ -1,8 +1,7 @@
-/* Your CSS Code here. */
-div{
-	background-color:lightblue;
-	width:300px;
-	border:15px solid blue;
-	padding:50px;
-	margin:20px;
+div {
+	background-color: lightblue;
+	width: 300px;
+	border: 15px solid blue;
+	padding: 50px;
+	margin: 20px;
 }
